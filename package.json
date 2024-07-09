@@ -18,6 +18,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc && vite build",
+    "prepare": "tsc && vite build",
     "dev": "vite",
     "prepack": "npm run build",
     "lint": "prettier --check .",
