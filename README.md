@@ -1,3 +1,6 @@
+# Changelog for this fork
+* package.json: added `prepare` script to be able to `npm install` from repository
+
 # Signal Polyfill
 
 ## ⚠️ This polyfill is a preview of an in-progress proposal and could change at any time. Do not use this in production. ⚠️
